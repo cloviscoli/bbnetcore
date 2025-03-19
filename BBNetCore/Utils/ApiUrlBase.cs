@@ -10,7 +10,7 @@ internal abstract class ApiUrlBase
     /// <summary>
     /// URL padrão do serviço de sandbox.
     /// </summary>
-    private const string SANDBOX_BASE_URL = "https://api.sandbox.bb.com.br";
+    private const string SANDBOX_BASE_URL = "https://api.hm.bb.com.br";
 
     /// <summary>
     /// URL de autenticação padrão do serviço de sandbox.
